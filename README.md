@@ -16,7 +16,7 @@ https://fakecraigslistfinalproject.azurewebsites.net/
 #### Admin Account
 ```
 Username: qq@qq.qq
-Password: Gakki123123!
+Password: Please contact us!
 ```
 
 # Solution Details
